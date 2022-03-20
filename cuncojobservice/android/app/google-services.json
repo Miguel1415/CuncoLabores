@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625153041503",
+    "firebase_url": "https://labores-b91a4-default-rtdb.firebaseio.com",
+    "project_id": "labores-b91a4",
+    "storage_bucket": "labores-b91a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625153041503:android:ceaf8ce35aa36c01ede7ea",
+        "android_client_info": {
+          "package_name": "com.example.cuncojobservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625153041503-df7gjf6v6l2mvjdvvfeht6uri5vncve7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cuncojobservice",
+            "certificate_hash": "09c1aa7c36601c9e2893d7a15b2561b435c6ac9a"
+          }
+        },
+        {
+          "client_id": "625153041503-mjndonteq2741n6bpbl2h7nlko6ud339.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lc-bfLA6nXICAFl-FKUipdcnWTz-maE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625153041503-mjndonteq2741n6bpbl2h7nlko6ud339.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625153041503-9gk6pj1k7vb52bkeblaggs831fap5pff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cuncojobservice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
